@@ -12,8 +12,8 @@ body{
     justify-content: center;
     align-items: center;
     gap:20px;
-    height: 400px;
-    width: 600px;
+    height: 600px;
+    width: 700px;
     margin: 0 auto;
     background-color: #f5f2ed8f;
     box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
@@ -72,4 +72,5 @@ p{
     font-size:20px;
     text-align: center;
     line-height: 2;
+    color:red;
 }
